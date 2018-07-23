@@ -14,7 +14,7 @@ The game is written in C language with the use of the library mlx.
 git clone https://github.com/vzamyati/FdF.git
 cd FdF
 make
-./fdf ./test_maps/map.fdf
+./fdf test_maps/map.fdf
 ```
 ## Author
 
