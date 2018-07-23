@@ -6,7 +6,7 @@ Every programs you wrote until now were executing in text mode within your termi
 
 Educational project in School 42 (UNIT Factory Kyiv).
 Task: read the map from the file and represent it like the matrix of dots connected with the lines, drawn by the [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm).
-The game is written in C language with the use of the library mlx.
+The game is written in C language with the use of the library mlx(minilibx).
 
 ## INSTALL
 
