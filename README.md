@@ -17,6 +17,12 @@ cd FdF
 make
 ./fdf test_maps/map.fdf
 ```
+
+![ScreenShot](https://github.com/vzamyati/FdF/blob/master/pictures/42_fdf.png?raw=true)
+![ScreenShot](https://github.com/vzamyati/FdF/blob/master/pictures/blue.png?raw=true)
+![ScreenShot](https://github.com/vzamyati/FdF/blob/master/pictures/purple.png?raw=true)
+![ScreenShot](https://github.com/vzamyati/FdF/blob/master/pictures/red.png?raw=true)
+
 ## Author
 
 *  **Valeriia Zamyatina** - [vzamyati](https://github.com/vzamyati/)
