@@ -17,8 +17,8 @@ cd FdF
 make
 ./fdf test_maps/map.fdf
 ```
-<img src="https://github.com/vzamyati/FdF/blob/master/pictures/42_fdf.png?raw=true" width="500" height="500" /> <img src="https://github.com/vzamyati/FdF/blob/master/pictures/blue.png?raw=true" width="500" height="500" />
-<img src="https://github.com/vzamyati/FdF/blob/master/pictures/purple.png?raw=true" width="500" height="500" /> <img src="https://github.com/vzamyati/FdF/blob/master/pictures/red.png?raw=true" width="500" height="500" />
+<img src="https://github.com/vzamyati/FdF/blob/master/pictures/42_fdf.png?raw=true" width="400" height="400" /> <img src="https://github.com/vzamyati/FdF/blob/master/pictures/blue.png?raw=true" width="400" height="400" />
+<img src="https://github.com/vzamyati/FdF/blob/master/pictures/purple.png?raw=true" width="400" height="400" /> <img src="https://github.com/vzamyati/FdF/blob/master/pictures/red.png?raw=true" width="400" height="400" />
 ## Author
 
 *  **Valeriia Zamyatina** - [vzamyati](https://github.com/vzamyati/)
